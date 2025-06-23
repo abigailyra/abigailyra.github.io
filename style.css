@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'ephesis';
+	src: url('/fonts/Ephesis-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: "sendflowers";
+	src: url("/fonts/SendFlowers-Regular.ttf") format("truetype");
+}
+
+h1 {
+    font-family: 'ephesis';
+}
+p {
+	font-family: 'sendflowers'; 
+}
+body {
+	background-color: black;
+	color: white;
+}
